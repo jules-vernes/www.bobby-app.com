@@ -1,16 +1,16 @@
-name: Bobby
-description: The blog of the application Bobby
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: "Bobby"
+description: "The blog of the application Bobby"
+meta_description: "The blog of the application Bobby, your best buddy for your daily commute."
 
-markdown: kramdown
-highlighter: rouge
+markdown: "kramdown"
+highlighter: "rouge"
 logo: false
 paginate: 15
-baseurl: /www.bobby-app.com
-domain_name: 'http://yourblog-domain.com'
+baseurl: "/www.bobby-app.com"
+domain_name: 'http://www.bobby-app.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'Bobby application'
+author:         'Team Bobby'
